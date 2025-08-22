@@ -1,4 +1,0 @@
-INDEX VERSION 1.132+D:\0.0 After Company\spring boot projects\Spring Security 6\.metadata\.plugins\org.eclipse.jdt.core
-223353635.index
-1865797976.index
-1522845931.index

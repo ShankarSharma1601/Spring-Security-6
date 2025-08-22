@@ -1,9 +1,0 @@
-spring.application.name=FormBasedAuthentication
-
-
-#if you want that every time you restart the application 
-#the password should not changed 
-#It should be fixed
-
-spring.security.user.password=test@123
-
